@@ -1,5 +1,5 @@
 # Unity3d-reconstruciotn
-Download the packadge then open Unity. 
+Download the packadges then open Unity. 
 Open the Unity3d-reconstruction project
 start the game
 click the screen to start
